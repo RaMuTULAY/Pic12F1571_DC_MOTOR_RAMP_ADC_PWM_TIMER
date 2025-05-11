@@ -6,7 +6,7 @@ All the code / functions and variables are in the main.c file.
 
 https://youtu.be/Dy5UEykhbkk
 
-IDE: MPLab 6.25, MCC Melody
+IDE: MPLabX 6.25, MCC Melody, XC8 Compler
 ![Simulation](https://github.com/user-attachments/assets/e98b4365-3a87-4627-bdc0-3c10a4ddf9d6)
 
 MCC Melody Configurations:
