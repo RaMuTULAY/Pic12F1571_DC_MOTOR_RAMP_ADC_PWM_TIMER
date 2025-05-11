@@ -1,5 +1,5 @@
 # Pic12F1571_DC_MOTOR_RAMP_ADC_PWM_TIMER
-Ramp Time and PWM Duty is determined by potantiometers, motor direction determined by button, start and stop controlled by button.
+Ramp Time and PWM Duty is determined by potentiometers, motor direction determined by button, start and stop controlled by button.
 ADC readings are taken at Timer0 overflow interrupt by ADC software trigger polling type,
 button readings are done at Timer0 overflow interrupt.
 All the code / functions and variables are in the main.c file.
